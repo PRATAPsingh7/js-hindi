@@ -1,3 +1,4 @@
+/*
 let score1 = "33"
 let score2= null
 let score3 = true
@@ -9,8 +10,6 @@ console.log(  score1);
 console.log(  score2);
 console.log(  score3);
 console.log(  score4);
-
-
 
 
 
@@ -33,5 +32,33 @@ console.log(value2);
 console.log(value3); 
 console.log(value4); 
 console.log(value5); 
+
+
+
+
+/******************************************OPERATIONS******************************* */
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2%2);
+// console.log(2+2);
+
+// let str1 = "hello"
+// let str2 = "pratap"
+
+// let str3 = str1  +  str2
+// console.log(str3);
+
+// console.log(2 + "2");
+// console.log("1" + 2 + 3);
+// console.log(1 + 2 + "3");
+
+
+
+console.log(+true);
 
 
