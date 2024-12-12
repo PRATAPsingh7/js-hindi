@@ -1,5 +1,9 @@
 // arrays
 
-const myarr = [0,pratap,2,3,4,5,6]
+const myarr = [0,1,9,3,4,5,6]
+const ma2 = ["usiw", "qjnekd", "jckd","djnu"]
 
-console.log(myarr[1]);
+
+console.log(ma2[2]);
+
+console.log(myarr[2]);
