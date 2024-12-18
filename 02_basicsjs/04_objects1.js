@@ -74,11 +74,22 @@ const obj3 = {...obj1,...obj2}
             
 
 
-users[1].email
+// users[1].email
 
-console.log(Object.keys(tinder_user2));
-console.log(Object.values(tinder_user2));
-
-
+// console.log(Object.keys(tinder_user2));
+// console.log(Object.values(tinder_user2));
 
 
+const course  = {
+    name : "pratap",
+    price : "10000",
+    info : "js ke bare  min"
+}
+
+const {info} = course
+
+const {name: h  } = course
+console.log(info);
+
+
+console.log(h);
