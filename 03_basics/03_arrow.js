@@ -1,27 +1,20 @@
-// function chai() {
-//     let username = "pratap"
-//     console.log(this.username);
-    
-// }
+const user = {
+    username : "pratap",
+    price : 999,
 
-// chai()
-
-// ~~~~~~~~~~~~~~~~~~~~Arrow function~~~~~~~~~~~~~~~~~~~~~~~~
-
-const chai1 =  () => {
-    let username = "pratap"
-    console.log(this);
-    
+    welcomeMessage : function(){
+        console.log(`${this.username} , Welcome to Website`);
+        console.log(this);
+        
+    }
 
 
 }
-chai1()
-
-// const chai =  function() {
-//     let username = "pratap"
-//     console.log(this);
-    
 
 
-// }
-// chai()
+// user.welcomeMessage()
+// user.username = "hello"
+// user.welcomeMessage()
+
+
+console.log(this);
