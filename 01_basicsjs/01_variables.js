@@ -2,7 +2,7 @@ const accountId = 144553
 let accountEmail = "itsps87@gmail.com"
 var accountPassword = "12354"
 accountCity = "Delhi"
-let accountState ;
+let accountState 
 
 // accountId = 2
 accountEmail = "hfvsjbhks@gmail.com"
@@ -15,4 +15,4 @@ because of issue in fuunctional issue */
 
 console.log(accountId);
 
-console.table([accountEmail, accountId,accountPassword,accountCity, accountState])
+console.log([accountEmail, accountId,accountPassword,accountCity, accountState])
