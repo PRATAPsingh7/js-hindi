@@ -47,18 +47,28 @@ console.log(value5);
 // console.log(2%2);
 // console.log(2+2);
 
-// let str1 = "hello"
-// let str2 = "pratap"
-
+// let str1 ="hello" 
+// let str2 = "  preatap"
 // let str3 = str1  +  str2
 // console.log(str3);
 
-// console.log(2 + "2");
+// let srt1Num = Number(str1)
+// let srt2Num = Number(str2)
+// let str3Num = srt1Num + srt2Num
+// console.log(str3Num);
+
+// let negvalue = - str3Num
+// console.log(negvalue);
+
+
+
+    
+//     console.log(2 + "2");
 // console.log("1" + 2 + 3);
-// console.log(1 + 2 + "3");
+// console.log(5+ 2 + "3");
 
 
 
-console.log(+true);
+console.log(true);
 
 
