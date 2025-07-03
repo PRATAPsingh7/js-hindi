@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 
 // alert is not used in node js, onply in browser//
 
@@ -9,8 +9,6 @@ console.log("pratap");
 let name = "pratap"
 let age = 20
 let isloggedIn = false
-
-
 
 //number =>2 power 53
 // bigint for large nunmbers
@@ -24,5 +22,5 @@ let isloggedIn = false
 // object
 
 
-console.log(typeof null  );
+console.log(typeof age  );
 
