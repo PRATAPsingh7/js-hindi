@@ -5,6 +5,7 @@ console.log(GameName[2]);
 console.log(GameName.toUpperCase());
 console.log(GameName.toLocaleUpperCase());
 console.log(GameName.charAt(2));
+co
 
 // substring,slice
 
@@ -14,6 +15,7 @@ console.log(GameName.charAt(2));
 const Ganduu = "        Hitesh   "
 console.log(Ganduu);
 console.log(Ganduu.trim());
+
 
 // replace
 
